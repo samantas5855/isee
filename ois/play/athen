@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="default" SOAP-ENV:encodingStyle="default">
+	<SOAP-ENV:Body>
+		<result>success</result>
+		<allow_watch_duration>-1</allow_watch_duration>
+	</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
