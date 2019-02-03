@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="default" SOAP-ENV:encodingStyle="default">
+	<SOAP-ENV:Body>
+		<info user="e3f1d50ed447c6e7" password="888888" realname="" country="希腊" email="" addr="" phone="" mobile="" postcode="" birthday="" termcnt="1" allowst="-1" amount="0" enable_utc="1549153413" validto_utc="0" expperiod="7" level="0" sid=""            wx_id="" wx_nickname="" qq_id="" qq_nickname="" sina_id="" sina_nickname=""/>
+	</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
