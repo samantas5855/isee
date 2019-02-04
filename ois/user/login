@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="default" SOAP-ENV:encodingStyle="default">
+	<SOAP-ENV:Body>
+		<info  user_id="8564d16df6324fbc" nickname="" email="" mobile="" weixin_id="" weixin_nickname="" qq_id="" qq_nickname="" weibo_id="" weibo_nickname="" play_protocol=""/>
+	</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
